@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCState Version="1" MinVersion="1">
+	<TBcState>
+		<FirstStartup Value="False"/>
+		<FormPositions>
+			<TCheckForUpdatesDialog Value="651;338;1125;645"/>
+			<TViewFrame Value="136;64;1641;903"/>
+		</FormPositions>
+	</TBcState>
+	<TCheckForUpdatesState>
+		<Build Value="25886"/>
+		<LastChecked Value="2021-09-30 10:31:52"/>
+		<ToDesktop Value="True"/>
+	</TCheckForUpdatesState>
+	<TTextCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="/tmp/YtoxTF_index.html"/>
+			<_1 Value="/tmp/qRvRTq_index.html"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Andale Mono;9"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="/home/philburns/learnEnoughGit/repos/website/index.html"/>
+		</RightMRUSpecs>
+	</TTextCompareState>
+</BCState>

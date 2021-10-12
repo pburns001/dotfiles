@@ -1,0 +1,117 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Copy">
+        <ActionSummary times="2" last="1599361142834" />
+      </entry>
+      <entry key="$Paste">
+        <ActionSummary times="1" last="1599361213529" />
+      </entry>
+      <entry key="BraceOrQuoteOut">
+        <ActionSummary times="1" last="1599360077941" />
+      </entry>
+      <entry key="CodeCompletion">
+        <ActionSummary times="1" last="1599360081995" />
+      </entry>
+      <entry key="ContextHelp">
+        <ActionSummary times="1" last="1599360167032" />
+      </entry>
+      <entry key="DebugClass">
+        <ActionSummary times="6" last="1632338865469" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="26" last="1599360959155" />
+      </entry>
+      <entry key="EditorChooseLookupItemReplace">
+        <ActionSummary times="2" last="1599360056137" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="3" last="1599359920601" />
+      </entry>
+      <entry key="ExecuteInPyConsoleAction">
+        <ActionSummary times="2" last="1616612028776" />
+      </entry>
+      <entry key="Exit">
+        <ActionSummary times="4" last="1616612728704" />
+      </entry>
+      <entry key="NewElement">
+        <ActionSummary times="1" last="1599358575901" />
+      </entry>
+      <entry key="NewPythonFile">
+        <ActionSummary times="1" last="1599358577849" />
+      </entry>
+      <entry key="Rerun">
+        <ActionSummary times="14" last="1599361437305" />
+      </entry>
+      <entry key="Resume">
+        <ActionSummary times="2" last="1599361479419" />
+      </entry>
+      <entry key="RunClass">
+        <ActionSummary times="1" last="1599359744624" />
+      </entry>
+      <entry key="Runner.RestoreLayout">
+        <ActionSummary times="2" last="1616611995892" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="12" last="1632339016219" />
+      </entry>
+      <entry key="ToggleLineBreakpoint">
+        <ActionSummary times="2" last="1599361186819" />
+      </entry>
+      <entry key="com.intellij.execution.console.ConsoleExecuteAction">
+        <ActionSummary times="24" last="1632338875714" />
+      </entry>
+      <entry key="com.intellij.execution.console.ConsoleHistoryController$MyAction">
+        <ActionSummary times="1" last="1599360034430" />
+      </entry>
+      <entry key="com.intellij.execution.ui.layout.actions.RestoreViewAction">
+        <ActionSummary times="3" last="1616611999878" />
+      </entry>
+      <entry key="com.intellij.ide.actions.ToolWindowMoveAction">
+        <ActionSummary times="1" last="1616611751431" />
+      </entry>
+      <entry key="com.intellij.ide.plugins.PluginManagerMain$2">
+        <ActionSummary times="1" last="1616611691349" />
+      </entry>
+      <entry key="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+        <ActionSummary times="149" last="1599361455018" />
+      </entry>
+      <entry key="com.intellij.openapi.actionSystem.impl.ActionToolbarImpl$1">
+        <ActionSummary times="6" last="1616611999057" />
+      </entry>
+      <entry key="com.intellij.openapi.keymap.impl.ui.KeymapPanel$12">
+        <ActionSummary times="2" last="1599366171785" />
+      </entry>
+      <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showUpdateResult$4$1">
+        <ActionSummary times="2" last="1632336501493" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+        <ActionSummary times="2" last="1616611743583" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$6">
+        <ActionSummary times="1" last="1599358223931" />
+      </entry>
+      <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
+        <ActionSummary times="2" last="1599358641016" />
+      </entry>
+      <entry key="com.intellij.webcore.packaging.InstalledPackagesPanel$4">
+        <ActionSummary times="8" last="1599360954798" />
+      </entry>
+      <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+        <ActionSummary times="1" last="1599361477030" />
+      </entry>
+      <entry key="com.jetbrains.python.debugger.PyCythonExtensionWarning$1">
+        <ActionSummary times="3" last="1599360107465" />
+      </entry>
+      <entry key="com.jetbrains.python.packaging.ui.PyInstalledPackagesPanel$2">
+        <ActionSummary times="2" last="1599358630254" />
+      </entry>
+      <entry key="com.jetbrains.python.sdk.PySdkPopupFactory$InterpreterSettingsAction">
+        <ActionSummary times="1" last="1599358612172" />
+      </entry>
+      <entry key="com.maddyhome.idea.vim.ui.ExShortcutKeyAction">
+        <ActionSummary times="4" last="1599360164734" />
+      </entry>
+    </data>
+  </component>
+</application>

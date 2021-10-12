@@ -1,0 +1,9 @@
+export QT_DEBUG_PLUGINS=1
+~ $ qtcreator
+printenf
+printenv
+export QT_DEBUG_PLUGINS=1
+qtcreator
+sudo at install qtcreator
+sudo apt install qtcreator
+qtcreator
